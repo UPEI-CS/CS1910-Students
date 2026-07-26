@@ -84,11 +84,15 @@ learning objectives the book does not yet cover.
 
 ## Provenance
 
-The original LaTeX sources are in `private/book_source/` and the first (lossy)
-notebook conversion is in `legacy/book/Notebooks/`. Both are kept as the reference
-for everything above; neither is part of the student-facing book, and neither is
-published. Retired end-of-chapter exercises and the un-taught Arrays and Recursion
-chapters live in `legacy/book/`.
+The original LaTeX sources are in `private/book_source/` — kept as the reference
+for everything above, not part of the student-facing book, never published.
+
+The first (lossy) notebook conversion, the retired end-of-chapter exercises, and
+the un-taught Arrays and Recursion chapters are **not in this repo**. They were
+moved to an instructor's private notes repo on 2026-07-25. `build.py` and
+`verify.py` still maintain those two chapters when a copy is reachable — set
+`CS1910_LEGACY_BOOK` to its path, or keep it at `notes/legacy/book/` — and skip
+them silently when it is not.
 
 `FIGURES.md`, `GAP_REPORT.md`, and `cs1910book/` are excluded by
 `tools/publish_students.py` — students get the chapters and this page, not the workshop.
