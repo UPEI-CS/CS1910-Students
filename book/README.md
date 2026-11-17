@@ -20,7 +20,7 @@ downloads, no other files needed.
 | 9 | Sequences | [09-Sequences](09-Sequences/CS1910_Sequences_Chapter.ipynb) |
 | 10 | Problem Solving and Debugging | [10-Problem-Solving-Debugging](10-Problem-Solving-Debugging/CS1910_Problem-Solving-Debugging_Chapter.ipynb) |
 | 11 | Lists | [11-Lists](11-Lists/CS1910_Lists_Chapter.ipynb) |
-| 12 | Tuples and Comprehensions | [12-Tuples-Comprehensions](12-Tuples-Comprehensions/CS1910_Tuples-Comprehensions_Chapter.ipynb) |
+| 12 | Tuples and Comprehensions | [12-Tuples_Comprehensions](12-Tuples_Comprehensions/CS1910_Tuples_Comprehensions_Chapter.ipynb) |
 | 13 | Dictionaries | [13-Dictionaries](13-Dictionaries/CS1910_Dictionaries_Chapter.ipynb) |
 | 14 | File Input/Output | [14-File-IO](14-File-IO/CS1910_File-IO_Chapter.ipynb) |
 | — | Appendix: Debugging Tips | [appendix](appendix/CS1910_Debugging-Tips_Chapter.ipynb) |
